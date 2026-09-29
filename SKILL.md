@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-affirmative-logic-formulator
-description: "Transform double negatives and convoluted exclusions into direct affirmative assertions." Use this when working on fitzpatrick affirmative logic formulator.
+description: "Transform double negatives and convoluted exclusions into direct affirmative assertions. Use this when working on fitzpatrick affirmative logic formulator."
 category: "Writing & Communication"
 triggers:
   - "affirmative logic"
